@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/vec2.dir/link.d CMakeFiles/vec2.dir/vec2.cpp.o -o vec2

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/ex1.dir/link.d CMakeFiles/ex1.dir/exx3_ex1.cpp.o -o ex1
