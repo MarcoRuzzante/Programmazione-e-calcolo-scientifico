@@ -1,0 +1,9 @@
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione5/build-debug/CMakeFiles/measure_sorts.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione5/build-debug/CMakeFiles/test_bubblesort.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione5/build-debug/CMakeFiles/test_insertionsort.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione5/build-debug/CMakeFiles/test_selectionsort.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione5/build-debug/CMakeFiles/test_mergesort.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione5/build-debug/CMakeFiles/test_quicksort.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione5/build-debug/CMakeFiles/test.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione5/build-debug/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione5/build-debug/CMakeFiles/rebuild_cache.dir

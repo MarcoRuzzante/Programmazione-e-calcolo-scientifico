@@ -1,0 +1,78 @@
+Start testing: May 04 09:16 UTC
+----------------------------------------------------------
+1/5 Testing: bubblesort
+1/5 Test: bubblesort
+Command: "/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione5/build-debug/test_bubblesort"
+Directory: /home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione5/build-debug
+"bubblesort" start time: May 04 09:16 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"bubblesort" end time: May 04 09:16 UTC
+"bubblesort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/5 Testing: insertionsort
+2/5 Test: insertionsort
+Command: "/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione5/build-debug/test_insertionsort"
+Directory: /home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione5/build-debug
+"insertionsort" start time: May 04 09:16 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"insertionsort" end time: May 04 09:16 UTC
+"insertionsort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/5 Testing: selectionsort
+3/5 Test: selectionsort
+Command: "/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione5/build-debug/test_selectionsort"
+Directory: /home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione5/build-debug
+"selectionsort" start time: May 04 09:16 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"selectionsort" end time: May 04 09:16 UTC
+"selectionsort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/5 Testing: mergesort
+4/5 Test: mergesort
+Command: "/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione5/build-debug/test_mergesort"
+Directory: /home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione5/build-debug
+"mergesort" start time: May 04 09:16 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"mergesort" end time: May 04 09:16 UTC
+"mergesort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/5 Testing: quicksort
+5/5 Test: quicksort
+Command: "/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione5/build-debug/test_quicksort"
+Directory: /home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione5/build-debug
+"quicksort" start time: May 04 09:16 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"quicksort" end time: May 04 09:16 UTC
+"quicksort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 04 09:16 UTC
