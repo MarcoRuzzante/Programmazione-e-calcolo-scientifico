@@ -1,0 +1,5 @@
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione6/build/CMakeFiles/test_edge.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione6/build/CMakeFiles/test_graph.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione6/build/CMakeFiles/test.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione6/build/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione6/build/CMakeFiles/rebuild_cache.dir

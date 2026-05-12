@@ -1,0 +1,33 @@
+Start testing: May 12 10:02 UTC
+----------------------------------------------------------
+1/2 Testing: Edge_Unit_Test
+1/2 Test: Edge_Unit_Test
+Command: "/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione6/build/test_edge"
+Directory: /home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione6/build
+"Edge_Unit_Test" start time: May 12 10:02 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Edge_Unit_Test" end time: May 12 10:02 UTC
+"Edge_Unit_Test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: Graph_Unit_Test
+2/2 Test: Graph_Unit_Test
+Command: "/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione6/build/test_graph"
+Directory: /home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione6/build
+"Graph_Unit_Test" start time: May 12 10:02 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Graph_Unit_Test" end time: May 12 10:02 UTC
+"Graph_Unit_Test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 12 10:02 UTC
