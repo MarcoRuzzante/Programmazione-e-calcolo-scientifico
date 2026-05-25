@@ -1,0 +1,3 @@
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione8/build/CMakeFiles/main.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione8/build/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/Programmazione-e-calcolo-scientifico/esercitazione8/build/CMakeFiles/rebuild_cache.dir
